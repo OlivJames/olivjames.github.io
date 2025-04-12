@@ -1,0 +1,81 @@
+h1 {
+	text-decoration:;
+	background-color:#006064;
+	color:snow; 
+	font-size:28px;
+ }
+
+ h2{
+ 	color: midnightblue;
+ 	font-size: 22px;
+ }
+
+
+ h3{
+ 	color: midnightblue;
+ 	font-size: 18px;
+ }
+
+ p {
+ 	color:black;
+ 	font-size: medium;
+ 	padding : 0;
+    margin : 0;
+    line-height : 20px;
+ }
+
+ p.links {
+ 	text-align: center;
+ 	font-size: 24px;
+ 	font-style: italic;
+ 	color: yellowgreen ;
+ 	background-color: #00838f;
+ 	line-height: 30px;
+ }
+
+a:link {
+	color: yellowgreen;
+	background-color: transparent;
+  	text-decoration: none;
+
+}
+
+a:visited {
+ 	color: lawngreen;
+ 	background-color: transparent;
+ 	text-decoration: none;
+ }
+
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+ body {
+ 	background-color:whitesmoke;
+ }
+ 
+ .quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
